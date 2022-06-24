@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FlowableTurkishLocaleApplication -tr/TR" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <module name="flowable-turkish-locale" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.aburakc.flowableturkishlocale.FlowableTurkishLocaleApplication" />
+    <option name="VM_PARAMETERS" value="-Duser.country=TR -Duser.language=tr" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
